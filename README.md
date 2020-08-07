@@ -8,7 +8,7 @@
 #### When I'm not doing anything aforementioned, I can be found running in the park :running: rereading Harry Potter books :crystal_ball: or dancing in front of the mirror ~like nobody's watching~ :dancer:
 
 
-
+* languages: Russian/English
 * [website](https://www.olesia.nyc/)
 * [linkedIn](https://www.linkedin.com/in/olesia-guidi/)
 * olesiaguidi@gmail.com
