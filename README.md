@@ -14,7 +14,7 @@
 * languages: Russian/English
 * [website](https://www.olesiag.com/)
 * [linkedIn](https://www.linkedin.com/in/olesia-guidi/)
-* [twitter] (https://twitter.com/olesia_ag)
+* [twitter](https://twitter.com/olesia_ag)
 * olesiaguidi@gmail.com
 
 <!--
