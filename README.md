@@ -3,14 +3,18 @@
 ### I'm Olesia (she/her), a recent bootcamp grad with a passion for front end technologies and React.js in particular. I keep diving deeper in its internals along with principles of JS functional programming 
 
 
-#### currently working my way through [Advanced CSS and Sass on Udemy](https://www.udemy.com/course/advanced-css-and-sass/) and improving design of my [personal website](https://www.olesiag.com/)
+#### currently learining: working my way through [Advanced CSS and Sass on Udemy](https://www.udemy.com/course/advanced-css-and-sass/) and [React Testing with Jest and Enzyme] (https://www.udemy.com/course/react-testing-with-jest-and-enzyme/)
 
-#### When I'm not doing anything aforementioned, I can be found running in the park :running: rereading Harry Potter books :crystal_ball: or dancing in front of the mirror ~like nobody's watching~ :dancer:
+#### currently working on: building social network for movie lovers using React.js and Firebase:  [here](https://github.com/olesia-ag/movie_social/)
+
+#### When I'm not doing anything aforementioned, I can be found running in the park :running: reading nonfiction :nerd_face: or dancing in front of the mirror ~like nobody's watching~ :dancer:
+
 
 
 * languages: Russian/English
 * [website](https://www.olesiag.com/)
 * [linkedIn](https://www.linkedin.com/in/olesia-guidi/)
+* [twitter] (https://twitter.com/olesia_ag)
 * olesiaguidi@gmail.com
 
 <!--
