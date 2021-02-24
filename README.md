@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-### I'm Olesia (she/her), a recent bootcamp grad with a passion for front end technologies and React.js in particular. I keep diving deeper in its internals along with principles of JS functional programming 
+### I'm Olesia (she/her), a fullstack developer with a passion for front end technologies and React.js in particular. 
 
 
 #### currently learining: working my way through [Functional Programming For Beginner With Javascript](https://www.udemy.com/course/functional-programming-for-beginners-with-javascript/)
