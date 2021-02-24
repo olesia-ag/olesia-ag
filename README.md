@@ -3,9 +3,9 @@
 ### I'm Olesia (she/her), a recent bootcamp grad with a passion for front end technologies and React.js in particular. I keep diving deeper in its internals along with principles of JS functional programming 
 
 
-#### currently learining: working my way through [Advanced CSS and Sass on Udemy](https://www.udemy.com/course/advanced-css-and-sass/) and [React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/)
+#### currently learining: working my way through [Functional Programming For Beginner With Javascript](https://www.udemy.com/course/functional-programming-for-beginners-with-javascript/)
 
-#### currently working on: building social network for movie lovers using React.js and Firebase:  [here](https://github.com/olesia-ag/movie_social/)
+#### currently working on: contributing to various projects for [Astoria.Digital](https://github.com/astoria-tech)
 
 #### When I'm not doing anything aforementioned, I can be found running in the park :running: reading nonfiction :nerd_face: or dancing in front of the mirror ~like nobody's watching~ :dancer:
 
@@ -15,7 +15,7 @@
 * [website](https://www.olesiag.com/)
 * [linkedIn](https://www.linkedin.com/in/olesia-guidi/)
 * [twitter](https://twitter.com/olesia_ag)
-* olesiaguidi@gmail.com
+* hello@olesiag.com
 
 <!--
 **olesia-ag/olesia-ag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
