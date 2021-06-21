@@ -1,13 +1,6 @@
 ## Hello World 👋
 
-### I'm Olesia (she/her), a fullstack developer with a passion for front end technologies and React.js in particular. 
-
-
-#### currently learining: working my way through [Functional Programming For Beginner With Javascript](https://www.udemy.com/course/functional-programming-for-beginners-with-javascript/)
-
-#### currently working on: contributing to various projects for [Astoria.Digital](https://github.com/astoria-tech)
-
-#### When I'm not doing anything aforementioned, I can be found running in the park :running: reading nonfiction :nerd_face: or dancing in front of the mirror ~like nobody's watching~ :dancer:
+### I'm Olesia (she/her), a fullstack developer.
 
 
 
